@@ -1,0 +1,1 @@
+ive downloaded ollama and created the git repo but i dont know how to claim the .tech domain this is the link for repo https://github.com/zyabcg/stall-sense.git
