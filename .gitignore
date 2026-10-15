@@ -1,0 +1,21 @@
+# Secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Model weights and caches (never commit)
+models/
+.cache/
+*.ckpt
+*.safetensors
+*.gguf
+
+# Private real vendor data
+data/real/*
+!data/real/.gitkeep
+
+# macOS
+.DS_Store

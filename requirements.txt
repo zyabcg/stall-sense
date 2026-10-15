@@ -1,0 +1,8 @@
+# Stall Sense dependencies (Python 3.12, managed with uv)
+tabpfn>=9.2        # tabular forecasting (TabPFN-3.5 default, v2 via config switch)
+streamlit          # UI
+pandas             # tables and CSV history
+ollama             # talks to the local Ollama server running Gemma
+pillow             # image handling for tally photos
+requests           # Open-Meteo historical weather (synthetic data only)
+python-dotenv      # loads .env
