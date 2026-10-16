@@ -278,3 +278,4 @@ Work in small, testable steps. After each milestone, update the schedule status 
 * Oct 13: TabPFN 9.2.0 installed (TabPFN-3.5 default; v2 via ModelVersion.V2). License accepted via browser login at ux.priorlabs.ai on first fit (or TABPFN_TOKEN in .env). Apple GPU (MPS) available.
 * Oct 13: Entire CLI 0.11.4 enabled for Claude Code (hooks in .claude/settings.json). Checkpoints are pushed with the repo, so transcripts become public when the GitHub repo is public. DevRelay site was down (502); retry later.
 * Oct 15: Framing is strictly global. No specific local city in the product, data, or post. Synthetic data city is a config value.
+* Oct 16: UI redesigned as a "market ledger" to avoid generic AI look: newsprint paper, ink, awning green for bring/gains, tomato only for waste/warnings; Fraunces + Bricolage Grotesque + JetBrains Mono, self-hosted (offline); square corners, no emoji, no cards. Theme in .streamlit/config.toml, styles in app/style.css.

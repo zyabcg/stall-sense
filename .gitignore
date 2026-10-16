@@ -19,3 +19,9 @@ data/real/*
 
 # macOS
 .DS_Store
+
+# The vendor's own sales history (private, created by the app)
+data/history.csv
+
+# App server log (contains IP addresses)
+docs/streamlit_log.txt

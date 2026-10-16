@@ -1,0 +1,482 @@
+{
+  "tally_01.jpg": {
+    "date": "2024-11-13",
+    "market": "wednesday_market",
+    "difficulty": "tidy",
+    "rows": [
+      {
+        "item": "kale",
+        "brought": 20,
+        "sold": 13,
+        "price": 4.0
+      },
+      {
+        "item": "apples",
+        "brought": 14,
+        "sold": 5,
+        "price": 5.5
+      },
+      {
+        "item": "eggs",
+        "brought": 15,
+        "sold": 10,
+        "price": 8.0
+      },
+      {
+        "item": "sourdough",
+        "brought": 15,
+        "sold": 3,
+        "price": 9.0
+      },
+      {
+        "item": "honey",
+        "brought": 5,
+        "sold": 2,
+        "price": 12.0
+      }
+    ],
+    "data_source": "SIMULATED"
+  },
+  "tally_02.jpg": {
+    "date": "2025-12-31",
+    "market": "wednesday_market",
+    "difficulty": "messy",
+    "rows": [
+      {
+        "item": "eggs",
+        "brought": 15,
+        "sold": 14,
+        "price": 8.0
+      },
+      {
+        "item": "apples",
+        "brought": 12,
+        "sold": 12,
+        "price": 5.5
+      },
+      {
+        "item": "sourdough",
+        "brought": 14,
+        "sold": 11,
+        "price": 9.0
+      },
+      {
+        "item": "honey",
+        "brought": 4,
+        "sold": 2,
+        "price": 12.0
+      },
+      {
+        "item": "kale",
+        "brought": 18,
+        "sold": 17,
+        "price": 4.0
+      }
+    ],
+    "data_source": "SIMULATED"
+  },
+  "tally_03.jpg": {
+    "date": "2026-02-07",
+    "market": "saturday_market",
+    "difficulty": "messy",
+    "rows": [
+      {
+        "item": "kale",
+        "brought": 41,
+        "sold": 14,
+        "price": 4.0
+      },
+      {
+        "item": "honey",
+        "brought": 9,
+        "sold": 4,
+        "price": 12.0
+      },
+      {
+        "item": "sourdough",
+        "brought": 34,
+        "sold": 13,
+        "price": 9.0
+      },
+      {
+        "item": "eggs",
+        "brought": 37,
+        "sold": 8,
+        "price": 8.0
+      }
+    ],
+    "data_source": "SIMULATED"
+  },
+  "tally_04.jpg": {
+    "date": "2026-04-04",
+    "market": "saturday_market",
+    "difficulty": "tidy",
+    "rows": [
+      {
+        "item": "kale",
+        "brought": 59,
+        "sold": 35,
+        "price": 4.0
+      },
+      {
+        "item": "eggs",
+        "brought": 22,
+        "sold": 22,
+        "price": 8.0
+      },
+      {
+        "item": "sourdough",
+        "brought": 37,
+        "sold": 25,
+        "price": 9.0
+      },
+      {
+        "item": "honey",
+        "brought": 12,
+        "sold": 9,
+        "price": 12.0
+      }
+    ],
+    "data_source": "SIMULATED"
+  },
+  "tally_05.jpg": {
+    "date": "2025-09-27",
+    "market": "saturday_market",
+    "difficulty": "messy",
+    "rows": [
+      {
+        "item": "sourdough",
+        "brought": 35,
+        "sold": 35,
+        "price": 9.0
+      },
+      {
+        "item": "tomatoes",
+        "brought": 38,
+        "sold": 14,
+        "price": 7.0
+      },
+      {
+        "item": "eggs",
+        "brought": 23,
+        "sold": 23,
+        "price": 8.0
+      },
+      {
+        "item": "zucchini",
+        "brought": 21,
+        "sold": 15,
+        "price": 5.0
+      },
+      {
+        "item": "apples",
+        "brought": 31,
+        "sold": 24,
+        "price": 5.5
+      },
+      {
+        "item": "kale",
+        "brought": 44,
+        "sold": 44,
+        "price": 4.0
+      },
+      {
+        "item": "honey",
+        "brought": 13,
+        "sold": 1,
+        "price": 12.0
+      }
+    ],
+    "data_source": "SIMULATED"
+  },
+  "tally_06.jpg": {
+    "date": "2024-12-21",
+    "market": "saturday_market",
+    "difficulty": "messy",
+    "rows": [
+      {
+        "item": "eggs",
+        "brought": 21,
+        "sold": 14,
+        "price": 8.0
+      },
+      {
+        "item": "honey",
+        "brought": 8,
+        "sold": 4,
+        "price": 12.0
+      },
+      {
+        "item": "apples",
+        "brought": 18,
+        "sold": 8,
+        "price": 5.5
+      },
+      {
+        "item": "sourdough",
+        "brought": 23,
+        "sold": 13,
+        "price": 9.0
+      },
+      {
+        "item": "kale",
+        "brought": 32,
+        "sold": 30,
+        "price": 4.0
+      }
+    ],
+    "data_source": "SIMULATED"
+  },
+  "tally_07.jpg": {
+    "date": "2026-04-11",
+    "market": "saturday_market",
+    "difficulty": "tidy",
+    "rows": [
+      {
+        "item": "kale",
+        "brought": 51,
+        "sold": 23,
+        "price": 4.0
+      },
+      {
+        "item": "eggs",
+        "brought": 25,
+        "sold": 17,
+        "price": 8.0
+      },
+      {
+        "item": "sourdough",
+        "brought": 31,
+        "sold": 14,
+        "price": 9.0
+      },
+      {
+        "item": "honey",
+        "brought": 8,
+        "sold": 6,
+        "price": 12.0
+      }
+    ],
+    "data_source": "SIMULATED"
+  },
+  "tally_08.jpg": {
+    "date": "2024-10-12",
+    "market": "saturday_market",
+    "difficulty": "messy",
+    "rows": [
+      {
+        "item": "sourdough",
+        "brought": 28,
+        "sold": 27,
+        "price": 9.0
+      },
+      {
+        "item": "honey",
+        "brought": 7,
+        "sold": 3,
+        "price": 12.0
+      },
+      {
+        "item": "kale",
+        "brought": 40,
+        "sold": 35,
+        "price": 4.0
+      },
+      {
+        "item": "eggs",
+        "brought": 22,
+        "sold": 9,
+        "price": 8.0
+      },
+      {
+        "item": "apples",
+        "brought": 25,
+        "sold": 17,
+        "price": 5.5
+      },
+      {
+        "item": "tomatoes",
+        "brought": 27,
+        "sold": 27,
+        "price": 7.0
+      }
+    ],
+    "data_source": "SIMULATED"
+  },
+  "tally_09.jpg": {
+    "date": "2024-12-28",
+    "market": "saturday_market",
+    "difficulty": "messy",
+    "rows": [
+      {
+        "item": "apples",
+        "brought": 18,
+        "sold": 11,
+        "price": 5.5
+      },
+      {
+        "item": "kale",
+        "brought": 38,
+        "sold": 15,
+        "price": 4.0
+      },
+      {
+        "item": "sourdough",
+        "brought": 21,
+        "sold": 11,
+        "price": 9.0
+      },
+      {
+        "item": "eggs",
+        "brought": 19,
+        "sold": 17,
+        "price": 8.0
+      },
+      {
+        "item": "honey",
+        "brought": 6,
+        "sold": 2,
+        "price": 12.0
+      }
+    ],
+    "data_source": "SIMULATED"
+  },
+  "tally_10.jpg": {
+    "date": "2025-11-08",
+    "market": "saturday_market",
+    "difficulty": "tidy",
+    "rows": [
+      {
+        "item": "kale",
+        "brought": 26,
+        "sold": 26,
+        "price": 4.0
+      },
+      {
+        "item": "apples",
+        "brought": 17,
+        "sold": 15,
+        "price": 5.5
+      },
+      {
+        "item": "eggs",
+        "brought": 28,
+        "sold": 20,
+        "price": 8.0
+      },
+      {
+        "item": "sourdough",
+        "brought": 19,
+        "sold": 19,
+        "price": 9.0
+      },
+      {
+        "item": "honey",
+        "brought": 9,
+        "sold": 9,
+        "price": 12.0
+      }
+    ],
+    "data_source": "SIMULATED"
+  },
+  "tally_11.jpg": {
+    "date": "2025-09-13",
+    "market": "saturday_market",
+    "difficulty": "messy",
+    "rows": [
+      {
+        "item": "apples",
+        "brought": 30,
+        "sold": 22,
+        "price": 5.5
+      },
+      {
+        "item": "tomatoes",
+        "brought": 37,
+        "sold": 21,
+        "price": 7.0
+      },
+      {
+        "item": "sourdough",
+        "brought": 28,
+        "sold": 28,
+        "price": 9.0
+      },
+      {
+        "item": "honey",
+        "brought": 17,
+        "sold": 8,
+        "price": 12.0
+      },
+      {
+        "item": "eggs",
+        "brought": 18,
+        "sold": 18,
+        "price": 8.0
+      },
+      {
+        "item": "kale",
+        "brought": 44,
+        "sold": 43,
+        "price": 4.0
+      },
+      {
+        "item": "zucchini",
+        "brought": 24,
+        "sold": 19,
+        "price": 5.0
+      }
+    ],
+    "data_source": "SIMULATED"
+  },
+  "tally_12.jpg": {
+    "date": "2025-09-03",
+    "market": "wednesday_market",
+    "difficulty": "messy",
+    "rows": [
+      {
+        "item": "kale",
+        "brought": 28,
+        "sold": 25,
+        "price": 4.0
+      },
+      {
+        "item": "apples",
+        "brought": 27,
+        "sold": 14,
+        "price": 5.5
+      },
+      {
+        "item": "eggs",
+        "brought": 17,
+        "sold": 11,
+        "price": 8.0
+      },
+      {
+        "item": "tomatoes",
+        "brought": 15,
+        "sold": 15,
+        "price": 7.0
+      },
+      {
+        "item": "sourdough",
+        "brought": 13,
+        "sold": 13,
+        "price": 9.0
+      },
+      {
+        "item": "honey",
+        "brought": 6,
+        "sold": 1,
+        "price": 12.0
+      },
+      {
+        "item": "zucchini",
+        "brought": 15,
+        "sold": 8,
+        "price": 5.0
+      }
+    ],
+    "data_source": "SIMULATED"
+  }
+}

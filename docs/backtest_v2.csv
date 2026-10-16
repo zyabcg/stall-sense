@@ -1,0 +1,5 @@
+,leftover_units,sellouts,waste_$,lost_profit_$,profit_$,MAE_vs_demand
+stall_sense,2250.0,367.0,5443.0,7905.0,61914.0,3.98
+last_sold,2004.0,513.0,4831.0,15646.0,54786.0,5.37
+last_brought,5178.0,239.0,12361.0,5441.0,57459.0,6.4
+vendor_actual,5347.0,237.0,12711.0,5593.0,56959.0,6.61

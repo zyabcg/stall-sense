@@ -1,0 +1,49 @@
+# Stall Sense look: a market ledger. Fonts ship with the app (works offline).
+[server]
+enableStaticServing = true
+
+[browser]
+gatherUsageStats = false
+
+[[theme.fontFaces]]
+family = "Fraunces"
+url = "app/static/fonts/Fraunces.ttf"
+style = "normal"
+
+[[theme.fontFaces]]
+family = "Fraunces"
+url = "app/static/fonts/Fraunces-Italic.ttf"
+style = "italic"
+
+[[theme.fontFaces]]
+family = "Bricolage"
+url = "app/static/fonts/Bricolage.ttf"
+
+[[theme.fontFaces]]
+family = "JetBrains Mono"
+url = "app/static/fonts/JetBrainsMono.ttf"
+
+[theme]
+base = "light"
+font = "Bricolage, sans-serif"
+headingFont = "Fraunces, serif"
+codeFont = "'JetBrains Mono', monospace"
+baseFontSize = 16
+# Paper and ink
+backgroundColor = "#F2ECDF"
+secondaryBackgroundColor = "#E7DFCD"
+textColor = "#1E1A15"
+borderColor = "#CDBFA5"
+showWidgetBorder = true
+# Awning green: actions, selection, "bring" quantities
+primaryColor = "#2F5D34"
+linkColor = "#2F5D34"
+# Square corners: ledger, not app store
+baseRadius = "none"
+buttonRadius = "none"
+dataframeBorderColor = "#CDBFA5"
+dataframeHeaderBackgroundColor = "#E7DFCD"
+dataframeHeaderTextColor = "#1E1A15"
+# Tomato red is reserved for waste and warnings
+redColor = "#B83A24"
+greenColor = "#2F5D34"

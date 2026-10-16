@@ -1,0 +1,30 @@
+tally_01.jpg [tidy]: 20/20 fields, 22.2s, unsure rows 0, extra rows 0
+tally_02.jpg [messy]: 19/20 fields, 17.3s, unsure rows 0, extra rows 0
+   x apples.sold: want 12, got 1
+tally_03.jpg [messy]: 16/16 fields, 15.9s, unsure rows 0, extra rows 0
+tally_04.jpg [tidy]: 16/16 fields, 17.8s, unsure rows 0, extra rows 0
+tally_05.jpg [messy]: 18/28 fields, 20.6s, unsure rows 0, extra rows 0
+   x sourdough.sold: want 35, got 9
+   x sourdough.price: want 9.0, got None
+   x eggs.sold: want 23, got 8
+   x eggs.price: want 8.0, got None
+   x zucchini.brought: want 21, got 15
+   x zucchini.sold: want 15, got 5
+   x zucchini.price: want 5.0, got None
+   x honey.brought: want 13, got 1
+   x honey.sold: want 1, got 12
+   x honey.price: want 12.0, got None
+tally_06.jpg [messy]: 20/20 fields, 17.5s, unsure rows 0, extra rows 0
+tally_07.jpg [tidy]: 16/16 fields, 15.3s, unsure rows 0, extra rows 0
+tally_08.jpg [messy]: 24/24 fields, 19.0s, unsure rows 0, extra rows 0
+tally_09.jpg [messy]: 19/20 fields, 17.6s, unsure rows 0, extra rows 0
+   x kale.brought: want 38, got 43
+tally_10.jpg [tidy]: 20/20 fields, 17.4s, unsure rows 0, extra rows 0
+tally_11.jpg [messy]: 24/28 fields, 22.0s, unsure rows 0, extra rows 0
+   x apples.brought: want 30, got 32
+   x sourdough.brought: want 28, got 26
+   x eggs.brought: want 18, got 16
+   x kale.brought: want 44, got 49
+tally_12.jpg [messy]: 28/28 fields, 23.2s, unsure rows 0, extra rows 0
+
+Model gemma4:e4b: 240/256 fields correct (94%), avg 18.8s per photo
