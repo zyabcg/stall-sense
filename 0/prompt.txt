@@ -1,0 +1,7 @@
+<task-notification>
+<task-id>bmxcv7it7</task-id>
+<tool-use-id>toolu_01Jk2Cz2kmJg9tzD6z2qDZXH</tool-use-id>
+<output-file>/private/tmp/claude-501/-Users-parthsingh-Dev-hackathon/dcc1c1a1-0fd8-44b9-8fff-c1a5a4d98744/tasks/bmxcv7it7.output</output-file>
+<status>completed</status>
+<summary>Background command "Score Gemma on all 12 straightened tallies" completed (exit code 0)</summary>
+</task-notification>
