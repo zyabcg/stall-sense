@@ -1,0 +1,5 @@
+<task-notification>
+<task-id>ba3em5jwm</task-id>
+<summary>Monitor event: "TabPFN v2 quick backtest progress and errors"</summary>
+<event>30/47 market days, 1.3s each</event>
+</task-notification>
