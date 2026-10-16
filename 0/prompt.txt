@@ -1,0 +1,7 @@
+<task-notification>
+<task-id>belvtm8xj</task-id>
+<summary>Monitor event: "TabPFN quick backtest progress and errors"</summary>
+<event>Traceback (most recent call last):
+raise TabPFNLicenseError(
+tabpfn.errors.TabPFNLicenseError: TabPFN requires a one-time license acceptance to download</event>
+</task-notification>
